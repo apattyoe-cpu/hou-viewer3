@@ -1,4 +1,3 @@
-# hou-viewer3
 // 国保法 条文ビューア（左ペイン＋ネイティブPDF表示 / 環境依存ゼロ版）
 
 import React, { useState } from "react";
